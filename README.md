@@ -30,6 +30,7 @@ This forks contains these changes:
 - Move to [foliojs-fork/restructure](https://github.com/foliojs-fork/restructure) (see [Why fork?](https://github.com/foliojs-fork/restructure#why-fork))
 - [Migrate do GitHub Actions](https://github.com/foliojs-fork/fontkit/pull/4)
 - [Fix Noto font bug](https://github.com/foliojs/fontkit/pull/230)
+- Move brfs package as devDependencies
 
 ## Installation
 
