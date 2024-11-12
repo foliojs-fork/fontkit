@@ -51,7 +51,7 @@
     "dfa": "^1.2.0",
     "@foliojs-fork/restructure": "^2.0.2",
     "tiny-inflate": "^1.0.2",
-    "unicode-properties": "^1.2.2",
+    "unicode-properties": "^1.4.0",
     "unicode-trie": "^2.0.0"
   },
   "devDependencies": {
